@@ -8,3 +8,7 @@ Use the below link to see it live
 ```
 https://ramneekc.github.io/Belly-Button-Biodiversity-dataset/
 ```
+```
+Changing subject id changes all three visualisations
+```
+![](static/Screenshot%20(69).png)
